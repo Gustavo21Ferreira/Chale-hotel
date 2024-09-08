@@ -1,3 +1,6 @@
+
+![Uploading Chalé hotel.png…]()
+
 Objetivo foi dar continuidade de como estilizar colunas e a área do menu.
 
 Ferramentas utilizadas:
