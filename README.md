@@ -11,3 +11,5 @@ Ferramentas utilizadas:
 Feito por:
 Gustavo Ferreira
 Linkedin: https://www.linkedin.com/in/gustavo-front-end/
+
+deploy: https://gustavo21ferreira.github.io/Chale-hotel/
